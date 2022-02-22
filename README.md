@@ -24,14 +24,14 @@ In this assignment, you will use deep learning recurrent neural networks to mode
 
 **Question Responses**:
 
-1. Which model has a lower loss?
+**Question 1:** Which model has a lower loss?
 
-LSTM RNN Model #1 (i.e., the closing price indicator model) has the lowest loss at less than 1%.
+**Question 1 Response:** LSTM RNN Model #1 (i.e., the closing price indicator model) has the lowest loss at less than 1%.
 
-2. Which model tracks the actual values better over time?
+**Question 2:** Which model tracks the actual values better over time?
 
-LSTM RNN Model #1 (i.e., the closing price indicator model) tracks the actual BTC values better over time.  This is clearly shown on the summary prediction charts above when comparing the Model #1 chart (with price indicator) vs. the Model #2 chart (with FNG indicator).
+**Question 2 Response:** LSTM RNN Model #1 (i.e., the closing price indicator model) tracks the actual BTC values better over time.  This is clearly shown on the summary prediction charts above when comparing the Model #1 chart (with price indicator) vs. the Model #2 chart (with FNG indicator).
 
-3. Which window size works best for the model?
+**Question 3:** Which window size works best for the model?
 
-After testing the window size, it appears that a window between 5 and 10 days works the best for predictions for both models.  8 days is the optimal window that results in the lowest model loss.
+**Question 3 Response:** After testing the window size, it appears that a window between 5 and 10 days works the best for predictions for both models.  8 days is the optimal window that results in the lowest model loss.
